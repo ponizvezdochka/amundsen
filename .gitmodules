@@ -16,7 +16,7 @@
 	branch = master
 [submodule "amundsencommon"]
 	path = amundsencommon
-	url = https://github.com/amundsen-io/amundsencommon
+	url = https://github.com/ponizvezdocka/amundsencommon
 	branch = master
 [submodule "amundsengremlin"]
 	path = amundsengremlin
